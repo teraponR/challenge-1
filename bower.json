@@ -1,0 +1,31 @@
+{
+  "name": "terapon",
+  "version": "0.0.0",
+  "homepage": "https://github.com/VerachadW/tw-challenges",
+  "authors": [
+    "Terapon <terapon.r@taskworld.com>"
+  ],
+  "description": "Taskworld Challenge 1",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies" : {
+    "bootstrap"         : "~3.2.0",
+    "fontawesome"       : "~4.2.0",
+    "ionicons"          : "~1.5.2",
+    "modernizr"         : "~2.8.3",
+    "modernizr-browser" : "*",
+    "snap.svg"          : "~0.3.0",
+    "classie"           : "~1.0.1",
+    "jquery.cookie"     : "~1.4.1"
+  }
+}
